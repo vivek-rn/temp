@@ -1,7 +1,7 @@
 {"centers":[{"center_id":561553,"name":"District Hospital (Covid  Shield)","state_name":"Kerala","district_name":"Palakkad",
 "block_name":"Palakkad Muncipality","pincode":678001,"lat":10,"long":76,"from":"09:00:00","to":"16:00:00","fee_type":"Free",
 "sessions":[{"session_id":"63da8106-dba3-4a6c-be88-1210cf026627","date":"01-05-2021",
-    "available_capacity":0,
+    "available_capacity":-1,
 "min_age_limit":45,"vaccine":"","slots":["09:00AM-11:00AM","11:00AM-01:00PM","01:00PM-03:00PM","03:00PM-04:00PM"]}]},
 {"center_id":561577,"name":"Palakkad DAH (Covaxinaaaaa)","state_name":"Kerala","district_name":"Palakkad",
 "block_name":"Palakkad Muncipality","pincode":678001,"lat":10,"long":76,"from":"09:00:00","to":"16:00:00","fee_type":"Free",
